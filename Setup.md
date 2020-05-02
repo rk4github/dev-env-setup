@@ -1,4 +1,4 @@
-# Setup NodeJs Development Environement in Ubuntu 20.04
+# Setup Node Development Environement in Ubuntu 20.04
 
 
 Install Node
